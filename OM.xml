@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<Text>
+<Sentence>
+<WordList>
+<Word Norm="для" Form="для" POS="12">
+<Attribute>12</Attribute>
+<Attribute>26</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="компания" Form="компании" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="и" Form="и" POS="11">
+<Attribute>11</Attribute>
+</Word>
+<Word Norm="ее" Form="ее" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>25</Attribute>
+<Attribute>26</Attribute>
+<Attribute>27</Attribute>
+<Attribute>28</Attribute>
+<Attribute>29</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="представитель" Form="представителей" POS="1">
+<Attribute>1</Attribute>
+<Attribute>20</Attribute>
+<Attribute>22</Attribute>
+<Attribute>24</Attribute>
+<Attribute>26</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="весь" Form="все" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="казаться" Form="казалось" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="прекрасный" Form="прекрасным" POS="3">
+<Attribute>3</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>29</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+<Word Norm="мама" Form="мама" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>24</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="мыть" Form="мыла" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="рама" Form="раму" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+<Word Norm="цветок" Form="цветок" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>25</Attribute>
+<Attribute>35</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="вскоре" Form="вскоре" POS="4">
+<Attribute>4</Attribute>
+</Word>
+<Word Norm="повянуть" Form="повял" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+</Sentence>
+<Sentence>
+<WordList>
+<Word Norm="сквозь" Form="сквозь" POS="12">
+<Attribute>12</Attribute>
+<Attribute>28</Attribute>
+<Attribute>46</Attribute>
+</Word>
+<Word Norm="его" Form="его" POS="6">
+<Attribute>6</Attribute>
+<Attribute>19</Attribute>
+<Attribute>20</Attribute>
+<Attribute>21</Attribute>
+<Attribute>22</Attribute>
+<Attribute>23</Attribute>
+<Attribute>25</Attribute>
+<Attribute>26</Attribute>
+<Attribute>27</Attribute>
+<Attribute>28</Attribute>
+<Attribute>29</Attribute>
+<Attribute>30</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="кожа" Form="кожу" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>21</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="можно" Form="можно" POS="15">
+<Attribute>15</Attribute>
+</Word>
+<Word Norm="быть" Form="было" POS="2">
+<Attribute>2</Attribute>
+<Attribute>19</Attribute>
+<Attribute>23</Attribute>
+<Attribute>31</Attribute>
+<Attribute>33</Attribute>
+<Attribute>34</Attribute>
+<Attribute>35</Attribute>
+<Attribute>36</Attribute>
+<Attribute>40</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="увидеть" Form="увидеть" POS="2">
+<Attribute>2</Attribute>
+<Attribute>32</Attribute>
+<Attribute>41</Attribute>
+</Word>
+<Word Norm="медведь" Form="медведя" POS="1">
+<Attribute>1</Attribute>
+<Attribute>19</Attribute>
+<Attribute>22</Attribute>
+<Attribute>24</Attribute>
+<Attribute>28</Attribute>
+<Attribute>35</Attribute>
+</Word>
+<Word Norm="." Form="." POS="17">
+<Attribute>17</Attribute>
+</Word>
+</WordList>
+</Sentence>
+</Text>
